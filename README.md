@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:845EC2,100:FF6F91&height=200&section=header&text=Love%20Yadav&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Building%20systems%20by%20day,%20chasing%20manga%20chapters%20by%20night&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6F91&center=true&vCenter=true&width=560&lines=Computer+Science+Student+%40+IIIT+Lucknow;Scalable+Architecture+%7C+Local+ML+%7C+Competitive+Programming;Currently+building+decentralized+applications+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6F91&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+IIIT+Lucknow;Scalable+Architecture+%7C+Local+ML+%7C+Competitive+Programming;%22A+lesson+without+pain+is+meaningless%22+-+FMA" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -53,6 +53,21 @@ CS student at **IIIT Lucknow** exploring scalable architecture, local ML models,
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveyadav1015&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
