@@ -12,17 +12,25 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
 
 <h3 align="center">✨ About Me</h3>
-
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="60%" valign="top">
 
-```
->>> Name        = "Love Yadav"
->>> Studying_at = "IIIT Lucknow"
->>> Loves       = ["Manga", "System Design", "Competitive Programming","ANIME"]
->>> Hobby       = ["Full-stack Dev", "Local ML", "BlockChain","Story Time Game"]
->>> print("Currently hunting good shows")
+### 👨‍💻 `whoami`
+
+```json
+{
+  "name": "Love Yadav",
+  "location": "IIIT Lucknow",
+  "domain": ["Scalable Architecture", "Competitive Programming", "Local ML"],
+  "hobbies": ["Full-Stack Dev", "Blockchain", "Story Time Games"],
+  "currently_playing": [
+    "Cyberpunk 2077", 
+    "Black Myth: Wukong", 
+    "Ghost of Tsushima"
+  ],
+  "mission": "Hunting for good shows"
+}
 ```
 
 </td>
