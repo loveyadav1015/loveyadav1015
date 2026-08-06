@@ -102,22 +102,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/love-yadav-b13b46380/"><img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
   <a href="mailto:loveyadav2538@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F6B4C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LEETCODE_OR_CODEFORCES"><img src="https://img.shields.io/badge/LEETCODE-1B4332?style=for-the-badge&logo=leetcode&logoColor=00FF9C"/></a>
+  <a href="https://leetcode.com/u/Ij7Z75CCa4/"><img src="https://img.shields.io/badge/LEETCODE-1B4332?style=for-the-badge&logo=leetcode&logoColor=00FF9C"/></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<h3 align="center">❄️ Repository</h3>
-
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=loveyadav1015&repo=REPO_NAME_ONE&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=39FF95&icon_color=00FF9C" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=loveyadav1015&repo=REPO_NAME_TWO&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=39FF95&icon_color=00FF9C" width="45%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h3 align="center">🏆 Trophies</h3>
 
