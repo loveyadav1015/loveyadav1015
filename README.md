@@ -1,14 +1,6 @@
-<div align="center">
+<div align="">
 
-<!--
-  BANNER
-  I can't source or generate anime character art (copyright), so this uses
-  capsule-render instead of a fixed image — it needs no file and can't 404.
-  If you have your own banner image (something you made or have rights to),
-  swap this block for:
-  <img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/banner.jpg" width="100%"/>
-  and place that file at assets/banner.jpg.
--->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F6B4C,100:00FF9C&height=220&section=header&text=Love%20Yadav&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Welcome%20To%20My%20GitHub%20Profile&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -105,16 +97,7 @@
   <a href="https://leetcode.com/u/Ij7Z75CCa4/"><img src="https://img.shields.io/badge/LEETCODE-1B4332?style=for-the-badge&logo=leetcode&logoColor=00FF9C"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-
-<h3 align="center">🏆 Trophies</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loveyadav1015&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0D1117&height=100&section=footer" width="100%"/>
