@@ -28,21 +28,16 @@
 ```
 >>> Name        = "Love Yadav"
 >>> Studying_at = "IIIT Lucknow"
->>> Loves       = ["Manga", "System Design", "Competitive Programming"]
->>> Hobby       = ["Full-stack Dev", "Local ML", "Solidity"]
->>> WorkingOn   = "Scalable Architecture"
->>> print("Currently hunting authentic pizza 🍕")
+>>> Loves       = ["Manga", "System Design", "Competitive Programming","ANIME"]
+>>> Hobby       = ["Full-stack Dev", "Local ML", "BlockChain","Story Time Game"]
+>>> print("Currently hunting good shows")
 ```
 
 </td>
 <td width="35%" align="center">
 
-<!--
-  This slot is wired to assets/about-photo.jpg. I can't generate or source
-  Mikasa/Eren/Armin fan art (copyrighted characters), so add your own image
-  file at that exact path and it will appear here automatically.
--->
-<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/about-photo.jpg" width="90%"/>
+
+<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/wanted-template.jpg" width="90%"/>
 
 </td>
 </tr>
@@ -106,7 +101,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/love-yadav-b13b46380/"><img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-0F6B4C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:loveyadav2538@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F6B4C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="YOUR_LEETCODE_OR_CODEFORCES"><img src="https://img.shields.io/badge/LEETCODE-1B4332?style=for-the-badge&logo=leetcode&logoColor=00FF9C"/></a>
 </p>
 
@@ -116,11 +111,7 @@
 
 <div align="center">
 
-<!--
-  PLACEHOLDER — replace REPO_NAME_ONE / REPO_NAME_TWO with your actual
-  repo names (e.g. repo=loveyadav1015&repo=my-project). I don't know your
-  repo names, so I left these as literal placeholders rather than guess.
--->
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=loveyadav1015&repo=REPO_NAME_ONE&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=39FF95&icon_color=00FF9C" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=loveyadav1015&repo=REPO_NAME_TWO&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=39FF95&icon_color=00FF9C" width="45%"/>
 
