@@ -106,6 +106,7 @@
   <a href="https://linkedin.com/in/love-yadav-b13b46380/"><img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
   <a href="mailto:loveyadav2538@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F6B4C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Ij7Z75CCa4/"><img src="https://img.shields.io/badge/LEETCODE-1B4332?style=for-the-badge&logo=leetcode&logoColor=00FF9C"/></a>
+  <a href="https://codeforces.com/profile/love_044"><img src="https://img.shields.io/badge/CODEFORCES-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C"/></a>
 </p>
 
 
