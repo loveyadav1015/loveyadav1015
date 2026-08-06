@@ -1,15 +1,15 @@
-<div align="">
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F6B4C,100:00FF9C&height=220&section=header&text=Love%20Yadav&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Welcome%20To%20My%20GitHub%20Profile&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6F91&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+IIIT+Lucknow;Scalable+Architecture+%7C+Local+ML+%7C+Competitive+Programming;%22A+lesson+without+pain+is+meaningless%22+-+FMA;%22Power+comes+in+response+to+a+need%22+-+Naruto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+IIIT+Lucknow;Scalable+Architecture+%7C+Local+ML+%7C+Competitive+Programming;%22A+lesson+without+pain+is+meaningless%22+-+FMA;%22Power+comes+in+response+to+a+need%22+-+Naruto;%22Orewa+Monkey+D.+Luffy%22+-+One+Piece" alt="Typing SVG" />
 </a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
 
 <h3 align="center">✨ About Me</h3>
 
@@ -35,7 +35,8 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
 
 <h3 align="center">📊 Stats</h3>
 
@@ -49,7 +50,8 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
 
 <h3 align="center">🧭 Contribution Compass</h3>
 
@@ -87,7 +89,8 @@
   <img src="https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF9C"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
 
 <h3 align="center">🌐 Contact</h3>
 
