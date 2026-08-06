@@ -76,7 +76,7 @@ CS student at **IIIT Lucknow** exploring scalable architecture, local ML models,
 <div align="center">
 
 <!-- auto-refreshed daily by .github/workflows/wanted.yml, pulls your live avatar -->
-<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/wanted-poster.png" width="45%"/>
+<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/wanted-template.jpg" width="45%"/>
 
 </div>
 
