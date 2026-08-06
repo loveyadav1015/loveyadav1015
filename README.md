@@ -29,7 +29,7 @@
 <td width="35%" align="center">
 
 
-<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/wanted-template.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/Gear5.jpg" width="100%"/>
 
 </td>
 </tr>
