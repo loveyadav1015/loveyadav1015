@@ -71,14 +71,13 @@ CS student at **IIIT Lucknow** exploring scalable architecture, local ML models,
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🐍 Contribution Snake
+### 🏴‍☠️ Bounty
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-  </picture>
+
+<!-- auto-refreshed daily by .github/workflows/wanted.yml, pulls your live avatar -->
+<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/wanted-poster.png" width="45%"/>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
