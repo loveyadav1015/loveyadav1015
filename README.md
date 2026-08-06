@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="middle">
 
 ```
 >>> Name        = "Love Yadav"
@@ -37,7 +37,7 @@
 <td width="35%" align="center">
 
 
-<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/wanted-template.jpg" width="90%"/>
+<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/wanted-template.jpg" width="100%"/>
 
 </td>
 </tr>
