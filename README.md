@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:845EC2,100:FF6F91&height=200&section=header&text=Love%20Yadav&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Building%20systems%20by%20day,%20chasing%20manga%20chapters%20by%20night&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:845EC2,50:FF6F91,100:2C2F5E&height=220&section=header&text=Love%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Building%20systems%20by%20day%20%E2%80%A2%20chasing%20manga%20chapters%20by%20night&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
+<img src="https://media.giphy.com/media/kwrkAzY79H7GZzWkzy/giphy.gif" width="120" alt="anime wave"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6F91&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+IIIT+Lucknow;Scalable+Architecture+%7C+Local+ML+%7C+Competitive+Programming;%22A+lesson+without+pain+is+meaningless%22+-+FMA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6F91&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+IIIT+Lucknow;Scalable+Architecture+%7C+Local+ML+%7C+Competitive+Programming;%22A+lesson+without+pain+is+meaningless%22+-+FMA;%22Power+comes+in+response+to+a+need%22+-+Naruto" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,6 +24,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### ⚡ Quick Intro
+
+> "It's not the face that makes someone a monster; it's the choices they make with their lives." — I just build clean systems instead. 🍥
 
 CS student at **IIIT Lucknow** exploring scalable architecture, local ML models, and competitive programming in C++. Currently building full-stack apps and dabbling in Solidity — fueled by manga leaks and a never-ending search for authentic pizza. 🍕
 
@@ -56,10 +60,25 @@ CS student at **IIIT Lucknow** exploring scalable architecture, local ML models,
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+### 🧭 Contribution Compass
+
+<div align="center">
+
+<!-- auto-refreshed every 6h by .github/workflows/compass.yml -->
+<img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/main/assets/compass.svg" width="70%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/loveyadav1015/loveyadav1015/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  </picture>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
