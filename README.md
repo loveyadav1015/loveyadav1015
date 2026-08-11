@@ -21,7 +21,7 @@
 ```json
 {
   "name": "Love Yadav",
-  "location": "IIIT Lucknow",
+  "Institute": "IIIT Lucknow",
   "domain": ["Scalable Architecture", "Competitive Programming", "Local ML"],
   "hobbies": ["Full-Stack Dev", "Blockchain", "Story Time Games"],
   "currently_playing": [
@@ -29,7 +29,8 @@
     "Black Myth: Wukong", 
     "Ghost of Tsushima"
   ],
-  "mission": "Hunting for good shows"
+  "mission": "Hunting for good shows",
+  "What kind of shows?": ["Anime" , "Kdrama" , "English shows", "Web series" , "Hollywood"]
 }
 ```
 
