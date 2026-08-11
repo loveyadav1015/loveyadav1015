@@ -23,7 +23,7 @@
   "name": "Love Yadav",
   "Institute": "IIIT Lucknow",
   "domain": ["Scalable Architecture", "Competitive Programming", "Local ML"],
-  "hobbies": ["Full-Stack Dev", "Blockchain", "Story Time Games"],
+  "hobbies": ["Full-Stack Dev", "Manga/Manhwa/LightNovel", "Story Time Games"],
   "currently_playing": [
     "Cyberpunk 2077", 
     "Black Myth: Wukong", 
