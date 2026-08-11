@@ -30,7 +30,7 @@
     "Ghost of Tsushima"
   ],
   "mission": "Hunting for good shows",
-  "What kind of shows?": ["Anime" , "Kdrama" , "English shows", "Web series" , "Hollywood"]
+  "What kind of shows?": ["Anime" , "Kdrama" , "English shows", "Web series"]
 }
 ```
 
