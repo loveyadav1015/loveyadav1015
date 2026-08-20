@@ -24,8 +24,7 @@
   "Institute": "IIIT Lucknow",
   "domain": ["Scalable Architecture", "Competitive Programming", "Local ML"],
   "hobbies": ["DevOps", "Manga/Manhwa/LightNovel", "Story Time Games"],
-  "currently_playing": [
-    "Cyberpunk 2077", 
+  "currently_playing": [ 
     "Black Myth: Wukong", 
     "Ghost of Tsushima"
   ],
