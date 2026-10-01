@@ -21,7 +21,6 @@
 ```json
 {
   "name": "Love Yadav",
-  "Institute": "IIIT Lucknow",
   "domain": ["Scalable Architecture", "Competitive Programming", "Local ML"],
   "hobbies": ["DevOps", "Manga/Manhwa/LightNovel", "Story Time Games"],
   "currently_playing": [ 
