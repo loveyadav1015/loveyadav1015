@@ -23,29 +23,29 @@
 
   <!-- axes -->
   <line x1="250" y1="200" x2="250" y2="170" stroke="url(#glow)" stroke-width="2.5" filter="url(#softGlow)"/>
-  <line x1="250" y1="200" x2="250" y2="259.54195783503985" stroke="url(#glow)" stroke-width="2.5" filter="url(#softGlow)"/>
-  <line x1="250" y1="200" x2="105.7207794052643" y2="200" stroke="url(#glow)" stroke-width="2.5" filter="url(#softGlow)"/>
-  <line x1="250" y1="200" x2="301.6224991046934" y2="200" stroke="url(#glow)" stroke-width="2.5" filter="url(#softGlow)"/>
+  <line x1="250" y1="200" x2="250" y2="259.44650699477864" stroke="url(#glow)" stroke-width="2.5" filter="url(#softGlow)"/>
+  <line x1="250" y1="200" x2="105.68295360369831" y2="200" stroke="url(#glow)" stroke-width="2.5" filter="url(#softGlow)"/>
+  <line x1="250" y1="200" x2="301.552636243213" y2="200" stroke="url(#glow)" stroke-width="2.5" filter="url(#softGlow)"/>
 
   <!-- endpoint nodes -->
   <circle cx="250" cy="170" r="5" fill="#FF6F91" filter="url(#softGlow)"/>
-  <circle cx="250" cy="259.54195783503985" r="5" fill="#FF6F91" filter="url(#softGlow)"/>
-  <circle cx="105.7207794052643" cy="200" r="5" fill="#FF6F91" filter="url(#softGlow)"/>
-  <circle cx="301.6224991046934" cy="200" r="5" fill="#FF6F91" filter="url(#softGlow)"/>
+  <circle cx="250" cy="259.44650699477864" r="5" fill="#FF6F91" filter="url(#softGlow)"/>
+  <circle cx="105.68295360369831" cy="200" r="5" fill="#FF6F91" filter="url(#softGlow)"/>
+  <circle cx="301.552636243213" cy="200" r="5" fill="#FF6F91" filter="url(#softGlow)"/>
   <circle cx="250" cy="200" r="7" fill="#845EC2" filter="url(#softGlow)"/>
 
   <!-- labels -->
   <text x="250" y="140" text-anchor="middle" fill="#FFD6E8" font-size="14" font-weight="700">0%</text>
   <text x="250" y="158" text-anchor="middle" fill="#c9c3e0" font-size="12">Code Review</text>
 
-  <text x="250" y="285.54195783503985" text-anchor="middle" fill="#FFD6E8" font-size="14" font-weight="700">6.1%</text>
-  <text x="250" y="303.54195783503985" text-anchor="middle" fill="#c9c3e0" font-size="12">Pull Requests</text>
+  <text x="250" y="285.44650699477864" text-anchor="middle" fill="#FFD6E8" font-size="14" font-weight="700">6.0%</text>
+  <text x="250" y="303.44650699477864" text-anchor="middle" fill="#c9c3e0" font-size="12">Pull Requests</text>
 
-  <text x="50.720779405264295" y="194" text-anchor="middle" fill="#FFD6E8" font-size="14" font-weight="700">90.7%</text>
-  <text x="50.720779405264295" y="212" text-anchor="middle" fill="#c9c3e0" font-size="12">Commits</text>
+  <text x="50.68295360369831" y="194" text-anchor="middle" fill="#FFD6E8" font-size="14" font-weight="700">90.8%</text>
+  <text x="50.68295360369831" y="212" text-anchor="middle" fill="#c9c3e0" font-size="12">Commits</text>
 
-  <text x="356.6224991046934" y="194" text-anchor="middle" fill="#FFD6E8" font-size="14" font-weight="700">3.2%</text>
-  <text x="356.6224991046934" y="212" text-anchor="middle" fill="#c9c3e0" font-size="12">Issues</text>
+  <text x="356.552636243213" y="194" text-anchor="middle" fill="#FFD6E8" font-size="14" font-weight="700">3.2%</text>
+  <text x="356.552636243213" y="212" text-anchor="middle" fill="#c9c3e0" font-size="12">Issues</text>
 
   <text x="250" y="380" text-anchor="middle" fill="#5f5a78" font-size="10">updated 2026-10-22 · last 365 days</text>
 </svg>
